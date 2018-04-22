@@ -28,5 +28,6 @@ keyboard. The window with the focus will receive the keypresses. If running
 remotely (e.g. through SSH/TTY), then the keys will not be sent since I make
 use of the uinput device to simulate key presses on the local terminal.
 <br>
+
 ![My Setup](/setup.jpg?raw=true "My Setup")
 
